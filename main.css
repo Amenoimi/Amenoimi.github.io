@@ -8,4 +8,14 @@ body
     width: 100vw;
     height: 100vh;
     overflow: hidden;
+    position: relative;
+}
+#mf{
+    width: 60vw;
+    height: 80vh;
+    background-color: rgba(202, 183, 255, 0.77);
+    position: absolute;
+    top:10vh;
+    left:20vw;
+    
 }
